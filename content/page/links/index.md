@@ -4,7 +4,7 @@ links:
   - title: GitHub
     description: My git profile, where messy code lives
     website: https://github.com/nkcam20
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-White.png
+    image: https://raw.githubusercontent.com/free-icons/free-icons/refs/heads/master/svgs/brands-github.svg
   - title: LinkedIn
     description: My LinkedIn profile, use this to hire me
     website: https://www.linkedin.com/in/nanda-kumar
