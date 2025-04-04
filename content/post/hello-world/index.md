@@ -8,7 +8,7 @@ categories:
     - Introduction
 tags:
     - about
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 2      # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 I will use this website as a blog to share my thoughts, work and more
