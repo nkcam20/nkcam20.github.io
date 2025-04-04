@@ -19,7 +19,7 @@ subtitle = "Code by Logic, Design by Heart."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "avatar.png"
+src = "avatar.jpg"
 
 [article]
 headingAnchor = false
