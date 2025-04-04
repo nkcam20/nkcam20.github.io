@@ -7,7 +7,7 @@ links:
     image: https://raw.githubusercontent.com/free-icons/free-icons/refs/heads/master/svgs/brands-github.svg
   - title: LinkedIn
     description: My LinkedIn profile, use this to hire me
-    website: https://www.linkedin.com/in/nanda-kumar
+    website: https://www.linkedin.com/in/s-nandakumar/
     image: https://raw.githubusercontent.com/free-icons/free-icons/refs/heads/master/svgs/brands-linkedin.svg
   - title: Twitter
     description: My X/Twitter profile, use this to contact me
