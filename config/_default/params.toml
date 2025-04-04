@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "avatar.jpg" # TODO: Fix to proper favicon
 
 [footer]
 since = 2020
